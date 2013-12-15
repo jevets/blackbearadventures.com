@@ -1,0 +1,211 @@
+/*!
+ * Roots 6.5.1
+ */
+
+@import "bootstrap/bootstrap.less";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+body {
+   font-family: 'Open Sans', sans-serif;
+   background: url(/media/bg.jpg);
+}
+
+
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+
+.banner { }
+
+
+.navbar {
+   margin-bottom: 0;
+   border-radius: 0;
+   border: none;
+   -webkit-box-shadow: 3px 3px 20px rgba(50, 50, 50, 0.22);
+   -moz-box-shadow:    3px 3px 20px rgba(50, 50, 50, 0.22);
+   box-shadow:         3px 3px 20px rgba(50, 50, 50, 0.22);
+}
+.navbar-brand {
+   padding: 26px 10px 10px 10px;
+}
+.navbar a {
+   text-transform: uppercase;
+   font-size: 1.1em;
+   font-family: Effra;
+}
+.pavement {
+   background: url(/media/navbg.jpg);
+}
+.navbar-inverse {
+   background: #6caae4;
+}
+.navbar-top {
+   background: url(/media/navbg.jpg);
+   font-size: .8em;
+}
+.navbar-top a {
+   color: #fff;
+   text-transform: uppercase;
+}
+.navbar-top a:hover {
+   color: #6caae4;
+   text-decoration: none;
+}
+.navbar-top p, .list-inline {
+   margin: 0; padding: 8px 0;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+color: #fff;
+   background: #000 url(/media/navbg.jpg);
+}
+
+/* ==========================================================================
+   Content
+   ========================================================================== */
+
+.content { }
+h1,h2,h3,h4,h5,h6 {
+   text-transform: uppercase;
+   font-weight: bold;
+}
+h1 {
+   line-height: .85em;
+}
+.jumbotron {
+   padding: 0;
+   background: url(/media/slide1.jpg) center top no-repeat;
+}
+.jumbotron h1 {
+   text-transform: uppercase;
+   line-height: .75em;
+}
+.slide1 {
+   padding-top: 20px;
+}
+.img-shadow {
+   -webkit-box-shadow: 3px 3px 20px rgba(50, 50, 50, 0.22);
+   -moz-box-shadow:    3px 3px 20px rgba(50, 50, 50, 0.22);
+   box-shadow:         3px 3px 20px rgba(50, 50, 50, 0.22);
+}
+.price {
+   font-size: 1.8em;
+   color: green;
+}
+.label-pad {
+   padding: 8px;
+   margin-top: 5px;
+}
+.nav-tabs {
+   text-transform: uppercase;
+   font-weight: bold;
+   font-family: Effra;
+}
+.nav-tabs>li>a:hover {
+   color: #fff;
+}
+.well {
+   margin-top: 25px;
+}
+
+
+
+#sharethis span {
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box;
+}
+
+blockquote {
+   margin-top: 30px;
+}
+
+
+
+/* ==========================================================================
+   Primary Content
+   ========================================================================== */
+
+.main { }
+
+/* Gallery Shortcode */
+.gallery-row { padding: 15px 0; }
+
+
+
+/* ==========================================================================
+   Sidebar
+   ========================================================================== */
+
+.sidebar { }
+
+
+
+/* ==========================================================================
+   Posts
+   ========================================================================== */
+
+.hentry header { }
+.hentry time { }
+.hentry .byline { }
+.hentry .entry-content { }
+.hentry footer { }
+
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.content-info { }
+footer a:hover {
+   text-decoration: none;
+}
+footer {
+   font-size: .85em;
+   margin-top: 100px;
+}
+
+
+/* ==========================================================================
+   WordPress Generated Classes
+   See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
+   ========================================================================== */
+
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+figure.alignnone { margin-left: 0; margin-right: 0; }
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media (min-width: @screen-sm-min) { }
+
+@media (min-width: @screen-md-min) {
+   h1 {
+      font-size: 4em;
+   }
+
+}
+
+@media (min-width: @screen-lg-min) {
+   h1 {
+      font-size: 5.5em;
+   }
+}
+
+
+@media print 
+{
+.tab-content > .tab-pane {display: block !important; opacity: 1 !important;}
+
+}

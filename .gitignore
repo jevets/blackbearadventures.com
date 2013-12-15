@@ -1,0 +1,10 @@
+.DS_Store
+secrets*
+wp-config.php
+wp-cli*
+wordpress/wp-content/uploads/*
+wordpress/media
+*backup*
+
+# Alias for the roots theme (for quicker CLI access)
+/theme
