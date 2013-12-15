@@ -4,7 +4,7 @@ wp-config.php
 wp-cli*
 wordpress/wp-content/uploads/*
 wordpress/media
-*backup*
+wp-content/backup*
 *.log
 
 # Alias for the roots theme (for quicker CLI access)
