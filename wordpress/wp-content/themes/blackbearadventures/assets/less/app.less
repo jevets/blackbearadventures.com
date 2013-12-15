@@ -3,14 +3,38 @@
  */
 
 @import "bootstrap/bootstrap.less";
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
+
+// @navbar-margin-bottom
+
+/* ==========================================================================
+   Vars
+   ========================================================================== */
+
+// brand/company vars
+// colors
+@color-bba-trans-black: rgba(50, 50, 50, 0.22);
+@color-bba-white: #fff;
+@color-bba-black: #000;
+@color-bba-light-blue: #6caae4;
+@color-bba-green: green;
+// fonts
+@font-family-bba-nav: "Effra", sans-serif;
+
+
+// Bootstrap overrides
+// fonts
+@font-family-sans-serif: 'Open Sans', sans-serif;
+// navbar
+@navbar-inverse-bg: @color-bba-light-blue;
+
 
 /* ==========================================================================
    Base
    ========================================================================== */
 
 body {
-   font-family: 'Open Sans', sans-serif;
    background: url(/media/bg.jpg);
 }
 
@@ -27,9 +51,9 @@ body {
    margin-bottom: 0;
    border-radius: 0;
    border: none;
-   -webkit-box-shadow: 3px 3px 20px rgba(50, 50, 50, 0.22);
-   -moz-box-shadow:    3px 3px 20px rgba(50, 50, 50, 0.22);
-   box-shadow:         3px 3px 20px rgba(50, 50, 50, 0.22);
+   -webkit-box-shadow: 3px 3px 20px @color-bba-trans-black;
+   -moz-box-shadow:    3px 3px 20px @color-bba-trans-black;
+   box-shadow:         3px 3px 20px @color-bba-trans-black;
 }
 .navbar-brand {
    padding: 26px 10px 10px 10px;
@@ -42,27 +66,25 @@ body {
 .pavement {
    background: url(/media/navbg.jpg);
 }
-.navbar-inverse {
-   background: #6caae4;
-}
+
 .navbar-top {
    background: url(/media/navbg.jpg);
-   font-size: .8em;
+   font-size: 0.8em;
 }
 .navbar-top a {
    color: #fff;
    text-transform: uppercase;
 }
 .navbar-top a:hover {
-   color: #6caae4;
+   color: @color-bba-light-blue;
    text-decoration: none;
 }
 .navbar-top p, .list-inline {
    margin: 0; padding: 8px 0;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #fff;
-   background: #000 url(/media/navbg.jpg);
+   color: @color-bba-white;
+   background: @color-bba-black url(/media/navbg.jpg);
 }
 
 /* ==========================================================================
@@ -75,7 +97,7 @@ h1,h2,h3,h4,h5,h6 {
    font-weight: bold;
 }
 h1 {
-   line-height: .85em;
+   line-height: 0.85em;
 }
 .jumbotron {
    padding: 0;
@@ -83,19 +105,19 @@ h1 {
 }
 .jumbotron h1 {
    text-transform: uppercase;
-   line-height: .75em;
+   line-height: 0.75em;
 }
 .slide1 {
    padding-top: 20px;
 }
 .img-shadow {
-   -webkit-box-shadow: 3px 3px 20px rgba(50, 50, 50, 0.22);
-   -moz-box-shadow:    3px 3px 20px rgba(50, 50, 50, 0.22);
-   box-shadow:         3px 3px 20px rgba(50, 50, 50, 0.22);
+   -webkit-box-shadow: 3px 3px 20px @color-bba-trans-black;
+   -moz-box-shadow:    3px 3px 20px @color-bba-trans-black;
+   box-shadow:         3px 3px 20px @color-bba-trans-black;
 }
 .price {
    font-size: 1.8em;
-   color: green;
+   color: @color-bba-green;
 }
 .label-pad {
    padding: 8px;
@@ -104,10 +126,10 @@ h1 {
 .nav-tabs {
    text-transform: uppercase;
    font-weight: bold;
-   font-family: Effra;
+   font-family: @font-family-bba-nav;
 }
 .nav-tabs>li>a:hover {
-   color: #fff;
+   color: @color-bba-white;
 }
 .well {
    margin-top: 25px;
