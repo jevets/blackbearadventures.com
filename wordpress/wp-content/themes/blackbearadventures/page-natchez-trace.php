@@ -87,7 +87,7 @@
                     <div class="col-sm-12">
                         <h2>Natchez Trace Tour Photos</h2>
                         <div class="hidden-print">
-                          <img class="ngg_displayed_gallery mceItem hidden-print" alt="" src="http://bba.groovywebtemplates.com/nextgen-attach_to_post/preview/id--93" />
+                          <?php the_content() ?>
                         </div>
                         <p class="visible-print">For trip photos of the Natchez Trace Tour, please visit <a href="http://blackbearadventures.com/natchez-trace-parkway/">http://blackbearadventures.com/natchez-trace-parkway/</a></p>
 
