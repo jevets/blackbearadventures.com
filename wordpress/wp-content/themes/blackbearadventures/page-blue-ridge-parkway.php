@@ -88,7 +88,7 @@
                         <h2>Blue Ridge Parkway Tour Photos</h2>
 
                         <div class="hidden-print">
-                          <img class="ngg_displayed_gallery mceItem" alt="" src="http://bba.groovywebtemplates.com/nextgen-attach_to_post/preview/id--263" />
+                          <?php the_content() ?>
                         </div>
                         <p class="visible-print">For trip photos of the Blue Ridge Parkway Tour, please visit <a href="http://blackbearadventures.com/blue-ridge-parkway/">http://blackbearadventures.com/blue-ridge-parkway/</a></p>
 
