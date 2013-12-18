@@ -31,7 +31,6 @@
           <h2>Our tours are designed for the Avid Cyclist (You know who you are)</h2>
           <p>Black Bear Adventures bicycle tours are designed for the Avid or serious cycling enthusiast. This means that on a typical day you will cycle 50+ miles, climb in excess of 4000 feet and be in the saddle for 4+ hours. And although our tours are geared towards "Avid" cyclists we don't define avid by the pace you are capable of maintaining, it is demonstrated by a desire and capability to accept the challenge outlined above.</p>
           <p>We carefully design each tour and select each road to ensure the finest rider experience available...remember at Black Bear Adventures "It IS About the Bike”! Are you ready to accept the Challenge?</p>
-          <p><a class="btn btn-default" href="/about/" role="button">Learn about us &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4">
           <img class="img-responsive img-shadow" src="/media/cycling-support-team.jpg" alt="">
