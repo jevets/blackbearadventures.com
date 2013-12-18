@@ -8,10 +8,9 @@
     <div class="row">
       <div class="col-sm-5">
         <h1>Vacations Designed for the <span class="redbg">Avid</span> Cyclist.</h1>
-        <p><a class="btn btn-default btn-xl" role="button">Learn more &raquo;</a></p>
       </div>
       <div class="col-sm-7">
-        <img src="/media/slide1.png" class="img-responsive slide1">
+        <img src="/media/slide2.png" class="img-responsive slide1">
       </div>
     </div>
   </div>
