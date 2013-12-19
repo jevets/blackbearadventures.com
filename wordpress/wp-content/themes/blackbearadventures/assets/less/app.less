@@ -4,7 +4,7 @@
 
 @import "bootstrap/bootstrap.less";
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700");
-
+@import url("http://fonts.googleapis.com/css?family=Roboto+Condensed:700");
 
 // @navbar-margin-bottom
 
@@ -21,15 +21,13 @@
 @color-bba-green: green;
 // fonts
 @font-family-bba-sans: 'Open Sans', sans-serif;
-@font-family-bba-nav: "Effra", sans-serif;
-
+@font-family-bba-nav: "Roboto Condensed", sans-serif;
 
 // Bootstrap overrides
 // fonts
 @font-family-sans-serif: @font-family-bba-sans;
 // navbar
 @navbar-inverse-bg: @color-bba-light-blue;
-
 
 /* ==========================================================================
    Base
@@ -39,15 +37,11 @@ body {
    background: url(/media/bg.jpg);
 }
 
-
-
 /* ==========================================================================
    Header
    ========================================================================== */
 
 .banner { }
-
-
 .navbar {
    margin-bottom: 0;
    border-radius: 0;
@@ -135,20 +129,14 @@ h1 {
 .well {
    margin-top: 25px;
 }
-
-
-
 #sharethis span {
    -webkit-box-sizing: content-box;
    -moz-box-sizing: content-box;
    box-sizing: content-box;
 }
-
 blockquote {
    margin-top: 30px;
 }
-
-
 
 /* ==========================================================================
    Primary Content
@@ -159,15 +147,11 @@ blockquote {
 /* Gallery Shortcode */
 .gallery-row { padding: 15px 0; }
 
-
-
 /* ==========================================================================
    Sidebar
    ========================================================================== */
 
 .sidebar { }
-
-
 
 /* ==========================================================================
    Posts
@@ -178,8 +162,6 @@ blockquote {
 .hentry .byline { }
 .hentry .entry-content { }
 .hentry footer { }
-
-
 
 /* ==========================================================================
    Footer
@@ -198,7 +180,6 @@ footer {
    }
 }
 
-
 /* ==========================================================================
    WordPress Generated Classes
    See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
@@ -208,8 +189,6 @@ footer {
 .alignleft { float: left; }
 .alignright { float: right; }
 figure.alignnone { margin-left: 0; margin-right: 0; }
-
-
 
 /* ==========================================================================
    Media Queries
@@ -229,9 +208,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    }
 }
 
-
-@media print 
-{
+@media print {
    .tab-content > .tab-pane {
       display: block !important; opacity: 1 !important;
    }
