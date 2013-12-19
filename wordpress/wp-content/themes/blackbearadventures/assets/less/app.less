@@ -20,12 +20,13 @@
 @color-bba-light-blue: #6caae4;
 @color-bba-green: green;
 // fonts
+@font-family-bba-sans: 'Open Sans', sans-serif;
 @font-family-bba-nav: "Effra", sans-serif;
 
 
 // Bootstrap overrides
 // fonts
-@font-family-sans-serif: 'Open Sans', sans-serif;
+@font-family-sans-serif: @font-family-bba-sans;
 // navbar
 @navbar-inverse-bg: @color-bba-light-blue;
 
@@ -185,12 +186,16 @@ blockquote {
    ========================================================================== */
 
 .content-info { }
-footer a:hover {
-   text-decoration: none;
-}
 footer {
    font-size: 0.85em;
    margin-top: 100px;
+   a {
+      color: black;
+      text-decoration: underline;
+      &:hover, &:active, &:focus {
+         text-decoration: none;
+      }
+   }
 }
 
 
