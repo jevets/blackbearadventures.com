@@ -14,12 +14,10 @@ class A_NextGen_Pro_Album_Form extends Mixin_Display_Type_Form
             $this->object->get_static_url('photocrati-nextgen_pro_albums#settings.js'),
             array('jquery.nextgen_radio_toggle')
         );
-	
-	$atp = $this->object->get_registry()->get_utility('I_Attach_To_Post_Controller');
+		$atp = $this->object->get_registry()->get_utility('I_Attach_To_Post_Controller');
 	
 	if ($atp != null && $atp->has_method('mark_script')) {
-		$atp->mark_script('nextgen_pro_albums_settings_script');
-	}
+		$atp->mark_script('nextgen_pro_albums_settings_script');	}
     }
 
     /**
