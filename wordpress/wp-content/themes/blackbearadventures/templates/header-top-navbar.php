@@ -8,6 +8,7 @@
           <li><a href="/about/">About</a></li>
           <li><a href="/faqs/">FAQs</a></li>
           <li><a href="/testimonials/">Testimonials</a></li>
+          <li><a href="/2014-tours/">2014 Tour Dates</a></li>
         </ul>
       </div>
       <div class="col-sm-6 col-xs-12">
