@@ -3,13 +3,18 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-6 hidden-xs">
-        <ul class="list-inline">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about/">About</a></li>
-          <li><a href="/faqs/">FAQs</a></li>
-          <li><a href="/testimonials/">Testimonials</a></li>
-          <li><a href="/2014-tours/">2014 Tour Dates</a></li>
-        </ul>
+        <?php
+          if (has_nav_menu('header_navigation')) :
+            wp_nav_menu(array(
+              'theme_location' => 'header_navigation',
+              'menu_class' => 'list-inline',
+              'container' => false,
+              'menu_id' => 'header_menu',
+              'depth' => 1,
+              'fallback_cb' => false,
+            ));
+          endif;
+        ?>
       </div>
       <div class="col-sm-6 col-xs-12">
         <p class="text-right hidden-print"><a href="/contact/"><span class="glyphicon glyphicon-question-sign"></span> Questions?</a> &nbsp; <a href="tel:18883398687"><span class="glyphicon glyphicon-earphone"></span> (888) 339-8687</a></p>
