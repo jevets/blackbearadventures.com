@@ -11,7 +11,7 @@
 
     <div class="col-sm-8">
       <h2>Overview</h2>
-      <p class="lead">Our signature tour… enjoy spectacular views, challenging climbs and thrilling descents along this 469 mile journey from the Shenandoah National Park in Virginia to the Great Smoky Mountains National Park in North Carolina.</p>
+      <p class="lead">Black Bear Adventures is the only Tour company confident enough in themselves and their guests to offer full traverses of the Blue Ridge Parkway. I am in love with this road and have been since I was a young man, as native North Carolinian I have spent countless hours on what is quite possibly the finest cycling experience in the world!</p>
       <p>For 469 miles the Blue Ridge Parkway weaves, rises and falls through the magnificent mountain ranges that make up the Blue Ridge . The Parkway stretches from the Shenandoah National Park to the Great Smoky Mountains. On this tour we will climb over 45,000 feet as we cycle the entire length of the Parkway and discover the beauty it beholds.</p>
       <p>A quote from Elizabeth & Charlie Skinner’s book Bicycling the Blue Ridge best sums up the experience of cycling the Blue Ridge Parkway – <em>“There is no ribbon of road in the country more ideal for bicycling than the Skyline Drive and the Blue Ridge Parkway.”</em></p>
       <hr />
@@ -106,7 +106,7 @@
                 <div class="row">
                   <div class="col-sm-6">
                     <h3><span class="label label-primary">Day 1</span> Asheville to Staunton, VA</h3>
-                    <p>We leave Asheville at 10am to shuttle to the Stonewall Jackson Hotel. The Hotel is nestled in Historic Downtown Staunton, VA. in the heart of the picturesque Shenandoah Valley and is a wonderful place to stage ourselves for tomorrows tour launch.</p>
+                    <p>We leave Asheville at 10am to shuttle to the Stonewall Jackson Hotel in historic downtown Staunton, VA. The Stonewall Jackson is a wonderful hotel and ideally situated as a place to stage ourselves for tomorrows tour launch.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -128,8 +128,8 @@
 
                 <div class="row">
                   <div class="col-sm-6">
-                    <h3><span class="label label-primary">Day 2</span> The Journey Begins</h3>
-                    <p>We begin with a short shuttle to the northern terminus of Parkway to begin our bicycle tour of the Blue Ridge. Today we will cycle to the Peaks of Otter Lodge, which is one of three lodges operated by the Park Service that are located on the Blue Ridge Parkway. Today's route is one of the most challenging both because of its length and the long climb up Apple Orchard Mtn.</p>
+                    <h3><span class="label label-primary">Day 2</span> The Adventure Begins</h3>
+                    <p>We cycle from Rockfish Gap to the Peaks of Otter Lodge. Today’s stage has wonderful long range views of the Shenandoah Valley. After a moderate climb to start the day we roll along this narrow ribbon of road before descending to the lowest point on the BRP, the James River. After the descent comes what I consider to be one of the toughest climb of the entire tour, Apple Orchard Mtn. It climbs 3000+ feet in 12 miles and is the longest continuous climb on the BRP. Tonight we stay at the Peaks of Otter Lodge, which sits on the shores of Abbot Lake and offers wonderful views of Sharp Top Mountain.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -150,12 +150,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day2.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
                     <h3><span class="label label-primary">Day 3</span> Peaks of Otter to Floyd, VA.</h3>
-                    <p>Today we will cycle another 86 miles on our way to the hip little community of Floyd, VA. We will begin the day by descending out from the Peaks of Otter into the Roanoke River valley, climb out of the river valley and then roll along beautiful farmlands to our host for the evening, the Hotel Floyd. Dinner will include wonderfully fresh local organic cuisine and live regional music.</p>
+                    <p>After a thrilling descent into the Roanoke River Valley we climb out of the city before cresting and rolling through the Virginia countryside. Another long day in the saddle awaits us today but we cycle with the knowledge that ahead is the welcome oasis of one of my favorite communities on our journey, Floyd, VA. If we arrive in time we can stroll the streets and listen to some live bluegrass at the Country Store. Tonight’s inn and meal is sure to be one of the highlights of the trip.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -176,12 +177,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day3.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
                     <h3><span class="label label-primary">Day 4</span> Floyd, VA to Doughton Park</h3>
-                    <p>This morning we set out for the Bluffs Lodge in Doughton Park. Along the 82 mile route we will climb through the Rocky Knob area, continue to roll through preserved VA farmland, cross into North Carolina and climb up through Doughton Park before reaching our destination. Our meal this evening will be one of the finest examples of traditional southern cuisine.</p>
+                    <p>We leave VA and cross into NC today at mile marker 217, along the way we pass a number of notable points of interest today; Mabry Mill (mm 176), the Blue Ridge Music Center (mm 213) and Cumberland Knob (217.5) to name just a few. Our host this evening is the wonderful Bluffs which has been closed for two seasons so we are really excited to be back at one of my favorite places along the Parkway. Our meal this evening will be one of the best examples of traditional southern cuisine. </p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -202,12 +204,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day4.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
                     <h3><span class="label label-primary">Day 5</span> Doughton Park to Blowing Rock</h3>
-                    <p>Today's 51 mile route will start with a beautiful descent past sheer rock faces after which we will tackle a series of short climbs as we work our way into the beautiful mountain town of Blowing Rock for a much deserved day off. That evening we will relax at the luxurious Chetola Resort, which is within walking distance of the many interesting shops and fine restaurants that make up this popular tourist destination.</p>
+                    <p>Today's 56 mile route starts with a nice descent past sheer rock faces and then we tackle a series of short climbs on our way to the beautiful mountain town of Blowing Rock. Tomorrow you are rewarded with a well deserved day off. This evening we will relax at the luxurious Chetola Resort, which is within walking distance of the many shops and restaurants that make up this popular tourist destination.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -228,12 +231,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day5.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
                     <h3><span class="label label-primary">Day 6</span> A Day of Recovery in Beautiful Blowing Rock</h3>
-                    <p>The day is yours today to do whatever you choose. You may choose to stroll through the area's many shops, relax by the hotel pool or join a few of us as we cycle the infamous climbs of the once fabled Tour DuPont.</p>
+                    <p>Enjoy a relaxing day at the splendid Chetola Resort and Spa, stroll around quaint downtown Blowing Rock or join your guides for a ride along local cycling routes. A day without schedules, you decide how to spend it!</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -257,7 +261,7 @@
                 <div class="row">
                   <div class="col-sm-6">
                     <h3><span class="label label-primary">Day 7</span> Blowing Rock to Little Switzerland</h3>
-                    <p>Following our day off we get "back in the saddle" with short day to reacquaint the legs to the stress of cycling on the BRP. This segment of the Parkway is one of the most scenic stretches and will take us across the famous Linn Cove Viaduct,  past Grandfather Mountain and up to the quaint little community of Little Switzerland.  This evening we will stay at the Switzerland Inn, with its fabulous views and fine cuisine.</p>
+                    <p>We leave Blowing Rock and the Chetola Resort in route for Little Switzerland. Along the way we pass over and around some of the most distinctive landmarks of the Blue Ridge Parkway. Shortly out of town we begin climbing towards Grandfather Mountain and over the renowned Linn Cove Viaduct. We descend over the Viaduct and down to the Linville River where there is an optional hike to view Linville Falls. After remounting our bikes we climb up to Switzerland Inn, our ridge line host for the evening, along the way we will go through the first of NC’s 26 tunnels.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -278,12 +282,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day7.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
-                    <h3><span class="label label-primary">Day 8</span> Little Switzerland to Mt. Pisgah</h3>
-                    <p>Today's stage will be truly memorable, we climb from Little Switzerland up and over the Black and Craggy Mountains before a long descent into the Asheville...oh yeah and along the way there is a little climb up Mount Mitchell, the highest mountain east of the Rockies.</p>
+                    <h3><span class="label label-primary">Day 8</span> Little Switzerland to Asheville</h3>
+                    <p>Today we cycle into the highest mountain ranges along the Appalachian chain, the Black and Craggy Mountains. We spend most of the morning climbing to Mt. Mitchell State Park where we will tackle the eastern U.S.’s highest mountain. After our descent off the mountain we have one more major obstacle, the climb to Craggy Gardens, before a mostly downhill run into Asheville.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -304,12 +309,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day8.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
-                    <h3><span class="label label-primary">Day 9</span> The Final Glorious Day Along the Blue Ridge Parkway</h3>
-                    <p>This is it, the final day, 62 dramatic miles through some of the most beautiful scenery of the entire tour. Today we will cycle along the Pisgah Ridge to the Great Balsam mountains, where we will pass over the highest point on the Parkway, and eventually finish with a long descent into the town of Cherokee near the Great Smoky Mountains. To celebrate everyone's accomplishment of finishing this challenging tour we will shuttle into the city of Asheville where we will enjoy a gourmet meal and sample the famed night life of this beautiful city.</p>
+                    <h3><span class="label label-primary">Day 9</span> Asheville to the Southern Terminus of the BRP</h3>
+                    <p>The final and quite possibly the most challenging day along this special ribbon of road. This remote stretch along the BRP is probably my favorite section and is stunning in its display of signature long range views. This is a day to appreciate all that cycling the Blue Ridge Parkway entails; the physical and mental challenge to complete such an endeavor, the magnificent beauty of this wonderful National Park, and the joy and camaraderie of sharing this marvelous journey! The tour ends with a glorious stretch that includes 13.5 miles of descending over the final 17 miles. After the completion of this unbelievable adventure we shuttle back to Asheville to celebrate our accomplishment!</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
@@ -319,9 +325,9 @@
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-road"></span> Mileage</h4>
-                    <span class="label label-default">62 Miles</span>
+                    <span class="label label-default">Option of 62 or 87 Miles</span>
                     <h4><span class="glyphicon glyphicon-stats"></span> Elevation Gain</h4>
-                    <span class="label label-default">7500 feet</span>
+                    <span class="label label-default">6500' or 10,000+'</span>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
@@ -330,12 +336,13 @@
                   </div>
                 </div>
 
+                <img src="/media/brp-elevation-chart-day9.jpg" class="img-responsive" width="100%">
                 <hr />
 
                 <div class="row">
                   <div class="col-sm-6">
-                    <h3><span class="label label-primary">Day 10</span> Final Farewell</h3>
-                    <p>After our final group meal you are free to depart at your leisure. The trip home will be a time to reflect on the incredible accomplishment of cycling the entire length of this beautiful road and the new friends you have made along the way.</p>
+                    <h3><span class="label label-primary">Day 10</span> Our Final Farewells</h3>
+                    <p>After our night of celebration we gather to say our farewells and reflect on the experiences of the past week over our final group meal.</p>
                   </div>
                   <div class="col-sm-2">
                     <h4><span class="glyphicon glyphicon-cutlery"></span> Meals</h4>
