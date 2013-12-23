@@ -82,18 +82,11 @@
     <!-- Tab panes -->
     <div class="tab-content">
         <div class="tab-pane active" id="photos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Natchez Trace Tour Photos</h2>
-                        <div class="hidden-print">
-                          <?php the_content() ?>
-                        </div>
-                        <p class="visible-print">For trip photos of the Natchez Trace Tour, please visit <a href="http://blackbearadventures.com/natchez-trace-parkway/">http://blackbearadventures.com/natchez-trace-parkway/</a></p>
-
-                    </div>
-                </div>
-            </div>
+          <h2>Natchez Trace Tour Photos</h2>
+          <div class="hidden-print">
+            <?php the_content() ?>
+          </div>
+          <p class="visible-print">For trip photos of the Natchez Trace Tour, please visit <a href="http://blackbearadventures.com/natchez-trace-parkway/">http://blackbearadventures.com/natchez-trace-parkway/</a></p>
         </div>
         <div class="tab-pane" id="intinerary">
             <div class="container">

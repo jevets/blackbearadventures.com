@@ -73,31 +73,26 @@
 <div class="container">
     <div class="row">
         <ul class="nav nav-tabs">
-            <li class="active"><a href="#photos" data-toggle="tab">Tour Photos</a></li>
-            <li><a href="#intinerary" data-toggle="tab">Itinerary</a></li>
-            <li><a href="#interest" data-toggle="tab">Points of Interest</a></li>
+          <li class="active"><a href="#photos" data-toggle="tab">Tour Photos</a></li>
+          <li><a href="#intinerary" data-toggle="tab">Itinerary</a></li>
+          <li><a href="#interest" data-toggle="tab">Points of Interest</a></li>
         </ul>
     </div>
     <!-- Tab panes -->
     <div class="tab-content">
         <div class="tab-pane active" id="photos">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Blue Ridge Parkway Tour Photos</h2>
-                        <div class="hidden-print">
-                          <?php the_content() ?>
-                        </div>
-                        <p class="visible-print">For trip photos of the Blue Ridge Parkway Tour, please visit <a href="http://blackbearadventures.com/blue-ridge-parkway-epic/">http://blackbearadventures.com/blue-ridge-parkway/</a></p>
-
-                    </div>
-                </div>
+          <h2>Blue Ridge Parkway Tour Photos</h2>
+          <div class="hidden-print">
+            <?php the_content() ?>
+          </div>
+          <p class="visible-print">For trip photos of the Blue Ridge Parkway Tour, please visit <a href="http://blackbearadventures.com/blue-ridge-parkway-epic/">http://blackbearadventures.com/blue-ridge-parkway/</a></p>
         </div>
         <div class="tab-pane" id="intinerary">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12">
-                        <h2>Itinerary</h2>
-                    </div>
+                  <div class="col-sm-12">
+                    <h2>Itinerary</h2>
+                  </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-6">
