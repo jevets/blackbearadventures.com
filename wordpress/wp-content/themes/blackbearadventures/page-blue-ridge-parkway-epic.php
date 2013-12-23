@@ -81,7 +81,6 @@
     <!-- Tab panes -->
     <div class="tab-content">
         <div class="tab-pane active" id="photos">
-            <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <h2>Blue Ridge Parkway Tour Photos</h2>
@@ -92,7 +91,6 @@
 
                     </div>
                 </div>
-            </div>
         </div>
         <div class="tab-pane" id="intinerary">
             <div class="container">
