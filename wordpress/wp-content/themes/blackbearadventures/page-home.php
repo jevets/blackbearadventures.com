@@ -58,7 +58,7 @@
 
       <div class="row featurette">
         <div class="col-sm-7">
-          <h2 class="featurette-heading">Blue Ridge Parkway <span class="text-muted">Guided Bicycle Tour</span></h2>
+          <h2 class="featurette-heading">Blue Ridge Parkway <span class="text-muted"> Bicycle Tour</span></h2>
           <p class="lead">Our signature tour...enjoy spectacular views, challenging climbs and thrilling descents along this 469 mile journey from the Shenandoah National Park in Virginia to the Great Smoky Mountains National Park in North Carolina.</p>
           <p><a class="btn btn-primary" href="/blue-ridge-parkway/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
         </div>
@@ -74,9 +74,9 @@
           <img class="featurette-image img-responsive img-shadow" src="/media/h2.jpg" alt="Generic placeholder image">
         </div>
         <div class="col-sm-7">
-          <h2 class="featurette-heading">Natchez Trace Parkway <span class="text-muted">Guided Bicycle Tour</span></h2>
+          <h2 class="featurette-heading">Natchez Trace Parkway <span class="text-muted"> Bicycle Tour</span></h2>
           <p class="lead">The Natchez Trace is a an unforgettable road that stretches 444-miles from the Mississippi River in Natchez through the Shoals area in Alabama across Tennessee's Cumberland Plateau and on  to Nashville.  This National Scenic Byway is perfectly suited for cycling and one of the finniest two wheel experiences your will ever encounter.</p>
-          <p><a class="btn btn-primary" href="/natchez-trace-parkway/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/natchez-trace/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
         </div>
       </div>
 
@@ -84,7 +84,7 @@
 
       <div class="row featurette">
         <div class="col-sm-7">
-          <h2 class="featurette-heading">The Blue Ridge Parkway EPIC <span class="text-muted">Guided Bicycle Tour</span></h2>
+          <h2 class="featurette-heading">The Blue Ridge Parkway EPIC <span class="text-muted"> Bicycle Tour</span></h2>
           <p class="lead">This is our most challenging annually scheduled cycling "vacation" and will test even the fittest cyclists. We will average over 95 miles and 10,000 feet of climbing a day. This tour is for those cyclists that want to test themselves on what could possibly be the toughest tour in America.</p>
           <p><a class="btn btn-primary" href="/blue-ridge-parkway-epic/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
         </div>

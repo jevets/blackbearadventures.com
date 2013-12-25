@@ -73,7 +73,7 @@
 <div class="container">
     <div class="row">
         <ul class="nav nav-tabs">
-          <li class="active"><a href="#photos" data-toggle="tab">Tour Photos</a></li>
+          <li class="active"><a href="#photos" data-toggle="tab">Tour Gallery</a></li>
           <li><a href="#intinerary" data-toggle="tab">Itinerary</a></li>
           <li><a href="#interest" data-toggle="tab">Points of Interest</a></li>
         </ul>
