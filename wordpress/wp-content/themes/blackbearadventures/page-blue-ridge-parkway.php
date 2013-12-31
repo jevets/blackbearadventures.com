@@ -82,7 +82,7 @@
     <!-- Tab panes -->
     <div class="tab-content">
         <div class="tab-pane active" id="photos">
-          <h2>Blue Ridge Parkway Tour Photos</h2>
+          <h2>Blue Ridge Parkway Tour Gallery</h2>
           <div class="hidden-print">
             <?php the_content() ?>
           </div>
