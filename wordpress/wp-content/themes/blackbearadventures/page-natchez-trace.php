@@ -74,7 +74,7 @@
 <div class="container">
     <div class="row">
         <ul class="nav nav-tabs">
-            <li class="active"><a href="#photos" data-toggle="tab">Tour Photos</a></li>
+            <li class="active"><a href="#photos" data-toggle="tab">Tour Gallery</a></li>
             <li><a href="#intinerary" data-toggle="tab">Itinerary</a></li>
             <li><a href="#interest" data-toggle="tab">Points of Interest</a></li>
         </ul>
@@ -83,7 +83,7 @@
     <div class="tab-content">
         
         <div class="tab-pane active" id="photos">
-          <h2>Natchez Trace Tour Photos</h2>
+          <h2>Natchez Trace Tour Gallery</h2>
           <div class="hidden-print">
             <?php the_content() ?>
           </div>
