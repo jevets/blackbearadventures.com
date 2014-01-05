@@ -17,10 +17,10 @@
         ?>
       </div>
       <div class="col-sm-6 col-xs-12">
-        <p class="text-right hidden-print"><a href="/contact/"><span class="glyphicon glyphicon-question-sign"></span> Questions?</a> &nbsp; <a href="tel:18883398687"><span class="glyphicon glyphicon-earphone"></span> (888) 339-8687</a></p>
+        <p class="text-right hidden-print"><a href="/contact/"><span class="glyphicon glyphicon-question-sign"></span> Questions?</a> &nbsp; <a href="tel:+18883398687"><span class="glyphicon glyphicon-earphone"></span> (888) 339-8687</a></p>
         <p class="visible-print">Black Bear Adventures - Bicycle Tours</p>
-        <p class="visible-print"><img src="/media/logo-print.png"></p>
-        <p class="visible-print"><span class="glyphicon glyphicon-question-sign"></span> Questions?</a> &nbsp; <span class="glyphicon glyphicon-earphone"></span> (888) 339-8687</p>
+        <p class="visible-print"><img src="<?php echo get_stylesheet_directory_uri() ?>/assets/img/logo-print.png" alt=""></p>
+        <p class="visible-print"><span class="glyphicon glyphicon-question-sign"></span> Questions? <span class="glyphicon glyphicon-earphone"></span> (888) 339-8687</p>
       </div>
     </div>
   </div>
@@ -29,7 +29,7 @@
 
 <div class="masthead">
   <div class="container">
-    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img class="img-responsive" src="/media/logo1.png" alt="Black Bear Adventures - Bicycle Tours for Avid Cyclists"></a>
+    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri() ?>/assets/img/logo1.png" alt="Black Bear Adventures - Bicycle Tours for Avid Cyclists"></a>
   </div>
 </div>
 
@@ -47,7 +47,12 @@
     <nav class="collapse navbar-collapse" role="navigation">
       <?php
         if (has_nav_menu('primary_navigation')) :
-          wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav navbar-nav'));
+          wp_nav_menu(array(
+            'theme_location' => 'primary_navigation',
+            'menu_class' => 'nav navbar-nav',
+            'depth' => 0,
+            'fallback_cb' => false,
+          ));
         endif;
       ?>
     </nav>
