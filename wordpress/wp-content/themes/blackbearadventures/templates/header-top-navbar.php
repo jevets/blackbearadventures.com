@@ -29,7 +29,9 @@
 
 <div class="masthead">
   <div class="container">
-    <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img class="img-responsive" src="<?php echo get_stylesheet_directory_uri() ?>/assets/img/logo1.png" alt="Black Bear Adventures - Bicycle Tours for Avid Cyclists"></a>
+    <a class="logo-wrapper" href="<?php echo home_url(); ?>">
+      <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri() ?>/assets/img/logo1.png" alt="Black Bear Adventures - Bicycle Tours for Avid Cyclists">
+    </a>
   </div>
 </div>
 
