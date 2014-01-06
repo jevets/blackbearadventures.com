@@ -7,7 +7,11 @@ if (is_front_page()) return;
 
 $slug = $post->post_name;
 
-if (file_exists(trailingslashit($path).$slug.'.jpg')): ?>
+if (file_exists(trailingslashit($path).$slug.'.jpg')): 
+
+$post->has_hero = true;
+
+?>
 
   <div class="hero hero-default hero-<?php echo $slug ?>">
     <div class="container">
