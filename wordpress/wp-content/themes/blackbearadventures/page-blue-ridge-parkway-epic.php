@@ -1,10 +1,3 @@
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12">
-      <h1>Blue Ridge Parkway EPIC Bicycle Tour</h1>
-    </div>
-  </div>
-</div>
 
 <div class="container">
   <div class="row">
