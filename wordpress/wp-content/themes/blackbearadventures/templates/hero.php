@@ -16,12 +16,7 @@ $post->has_hero = true;
   <div class="hero hero-default hero-<?php echo $slug ?>">
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-4 col-md-4">
-          <div class="hero-text">
-            <h1><?php the_title() ?></h1>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-8 col-md-8">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <div class="hero-img">
             <img src="<?php echo get_stylesheet_directory_uri() ?>/assets/img/hero/<?php echo $slug ?>.jpg" alt="<?php the_title_attribute() ?>" class="img-responsive">
           </div>
