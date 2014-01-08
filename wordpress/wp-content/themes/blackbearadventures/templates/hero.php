@@ -9,7 +9,7 @@ $slug = $post->post_name;
 
 if (file_exists(trailingslashit($path).$slug.'.jpg')): 
 
-$post->has_hero = true;
+// $post->has_hero = true;
 
 ?>
 
