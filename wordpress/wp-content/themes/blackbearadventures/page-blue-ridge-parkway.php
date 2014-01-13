@@ -131,7 +131,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day2.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day2.jpg" width="50%">
           <hr />
 
           <div class="row">
@@ -158,7 +158,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day3.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day3.jpg" width="50%">
           <hr />
 
           <div class="row">
@@ -185,7 +185,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day4.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day4.jpg" width="50%">
           <hr />
 
           <div class="row">
@@ -212,7 +212,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day5.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day5.jpg" width="50%">
           <hr />
 
           <div class="row">
@@ -263,7 +263,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day7.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day7.jpg" width="50%">
           <hr />
 
           <div class="row">
@@ -290,7 +290,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day8.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day8.jpg" width="50%">
           <hr />
 
           <div class="row">
@@ -317,7 +317,7 @@
             </div>
           </div>
 
-          <img src="/media/brp-elevation-chart-day9.jpg" class="img-responsive" width="100%">
+          <img src="/media/brp-elevation-chart-day9.jpg" width="50%">
           <hr />
 
           <div class="row">
