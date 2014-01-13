@@ -2,6 +2,8 @@
 <div class="container">
   <div class="row">
 
+    <?php get_template_part('templates/page-header') ?>
+
     <div class="col-sm-8">
       <h2>Overview</h2>
       <p class="lead">This is our most challenging annually scheduled cycling vacation and will test even the fittest cyclists. We cycle over 480 miles and climb more than 45,000 feet in only 5 days!</p>

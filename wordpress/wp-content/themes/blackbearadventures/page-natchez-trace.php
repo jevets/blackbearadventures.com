@@ -2,6 +2,8 @@
 <div class="container">
   <div class="row">
 
+    <?php get_template_part('templates/page-header') ?>
+
     <div class="col-sm-8">
       <h2>Overview</h2>
       <p class="lead">The Natchez Trace is a an unforgettable road that stretches 444 miles from the Mississippi River in Natchez through the Shoals area in Alabama across Tennessee's Cumberland Plateau and on to Nashville.</p>
