@@ -39,9 +39,9 @@
     <div class="col-sm-4 sidebar">
       <div class="well">
         <h3>Cost</h3>
-        <p><span class="price">$2850</span><br>
-        Double Occupancy (shared accommodations)</p>
-        <p><span class="price">$3635</span><br>
+        <p><span class="price">$3150</span><br>
+        Double Occupancy</p>
+        <p><span class="price">$3875</span><br>
         Single Occupancy</p>
 
         <hr />
@@ -53,7 +53,7 @@
         <hr />
 
         <h3><span class="glyphicon glyphicon-calendar"></span> 2014 Dates</h3>
-        <h4>May 30 - June 8</h4>
+        <h4>June 13-22</h4>
         <hr>
         <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="http://blackbearadventures.com/contact/">Sign Up Now &raquo;</a></p>
         <p class="hidden-print"><button class="btn btn-large btn-default btn-block" onClick="window.print()"><span class="glyphicon glyphicon-print"></span> Print Complete Tour Itinerary</button></p>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.peaksofotter.com/" target="_blank"><img src="/media/stonewall-jackson-hotel.jpg" class="img-responsive hidden-print" alt="Stonewall Jackson Hotel" width="100%"><br>
+              <p><a href="http://www.stonewalljacksonhotel.com/" target="_blank"><img src="/media/stonewall-jackson-hotel.jpg" class="img-responsive hidden-print" alt="Stonewall Jackson Hotel" width="100%"><br>
               Stonewall Jackson Hotel <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.virginia.org/Listings/PlacesToStay/LonesomePineCabins/" target="_blank"><img src="/media/peaks-of-otter-lodge.jpg" class="img-responsive hidden-print" alt="Peaks Of Otter Lodge" width="100%"><br>
+              <p><a href="http://www.peaksofotter.com/" target="_blank"><img src="/media/peaks-of-otter-lodge.jpg" class="img-responsive hidden-print" alt="Peaks Of Otter Lodge" width="100%"><br>
               Peaks Of Otter Lodge <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -182,7 +182,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://foreverlodging.com/lodging.cfm?PropertyKey=74" target="_blank"><img src="/media/Bluffs-Lodge.jpg" class="img-responsive hidden-print" alt="Bluffs Lodge" width="100%"><br>
+              <p><a href="http://www.tripadvisor.com/Hotel_Review-g49277-d604885-Reviews-Bluffs_Lodge-Laurel_Springs_North_Carolina.html" target="_blank"><img src="/media/Bluffs-Lodge.jpg" class="img-responsive hidden-print" alt="Bluffs Lodge" width="100%"><br>
               Bluffs Lodge <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -348,7 +348,7 @@
             <li><a href="http://www.nps.gov/blri/" target="_blank">National Park Service</a></li>
             <li><a href="http://en.wikipedia.org/wiki/Blue_Ridge_Parkway" target="_blank">Wikipedia</a></li>
             <li><a href="http://ncnatural.com/Parkway/BRP-History.html" target="_blank">Blue Ridge Parkway Travel Guide</a></li>
-            <li><a href="http://www.digitalheritage.org/index.php/heritage-moments/2-featured/122-brp" target="_blank">Blue Ridge Parkway Essay</a></li>
+            <li><a href="http://digitalheritage.org/2010/08/blue-ridge-parkway-2/" target="_blank">Blue Ridge Parkway Essay</a></li>
           </ul>
         </div>
 

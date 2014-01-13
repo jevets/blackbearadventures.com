@@ -6,18 +6,18 @@
 
     <div class="col-sm-8">
       <h2>Overview</h2>
-      <p class="lead">This is our most challenging annually scheduled cycling vacation and will test even the fittest cyclists. We cycle over 480 miles and climb more than 45,000 feet in only 5 days!</p>
+      <p class="lead">This is our most challenging annually scheduled cycling vacation and will test even the fittest cyclists. We cycle some 575 miles and climb more than 55,000 feet in only 6 days!</p>
       <p class="lead">This tour is for those cyclists that really want to test themselves on what could possibly be the toughest tour in America.</p>
       <hr />
 
       <div class="row">
           <div class="col-sm-4">
               <h4>Miles Biked</h4>
-              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 480 Miles</span></p>
+              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 575 Miles</span></p>
           </div>
           <div class="col-sm-4">
               <h4>Trip Length</h4>
-              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-time"></span> 7 Days/6 Nights</span></p>
+              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-time"></span> 8 Days/7 Nights</span></p>
           </div>
           <div class="col-sm-4">
               <h4>Trip Begins</h4>
@@ -38,9 +38,9 @@
     <div class="col-sm-4 sidebar">
       <div class="well">
         <h3>Cost</h3>
-        <p><span class="price">$2850</span><br>
-        Double Occupancy (shared accommodations)</p>
-        <p><span class="price">$3635</span><br>
+        <p><span class="price">$2575</span><br>
+        Double Occupancy</p>
+        <p><span class="price">$3150</span><br>
         Single Occupancy</p>
 
         <hr />
@@ -102,7 +102,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.peaksofotter.com/" target="_blank"><img src="/media/stonewall-jackson-hotel.jpg" class="img-responsive hidden-print" alt="Stonewall Jackson Hotel" width="100%"><br>
+              <p><a href="http://www.stonewalljacksonhotel.com/" target="_blank"><img src="/media/stonewall-jackson-hotel.jpg" class="img-responsive hidden-print" alt="Stonewall Jackson Hotel" width="100%"><br>
               Stonewall Jackson Hotel <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.virginia.org/Listings/PlacesToStay/LonesomePineCabins/" target="_blank"><img src="/media/peaks-of-otter-lodge.jpg" class="img-responsive hidden-print" alt="Peaks Of Otter Lodge" width="100%"><br>
+              <p><a href="http://www.peaksofotter.com/" target="_blank"><img src="/media/peaks-of-otter-lodge.jpg" class="img-responsive hidden-print" alt="Peaks Of Otter Lodge" width="100%"><br>
               Peaks Of Otter Lodge <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -248,7 +248,7 @@
             <li><a href="http://www.nps.gov/blri/" target="_blank">National Park Service</a></li>
             <li><a href="http://en.wikipedia.org/wiki/Blue_Ridge_Parkway" target="_blank">Wikipedia</a></li>
             <li><a href="http://ncnatural.com/Parkway/BRP-History.html" target="_blank">Blue Ridge Parkway Travel Guide</a></li>
-            <li><a href="http://www.digitalheritage.org/index.php/heritage-moments/2-featured/122-brp" target="_blank">Blue Ridge Parkway Essay</a></li>
+            <li><a href="http://digitalheritage.org/2010/08/blue-ridge-parkway-2/" target="_blank">Blue Ridge Parkway Essay</a></li>
           </ul>
         </div>
 
