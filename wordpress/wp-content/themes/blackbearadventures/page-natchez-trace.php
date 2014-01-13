@@ -14,7 +14,7 @@
       <div class="row">
           <div class="col-sm-4">
               <h4>Tour Mileage</h4>
-              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 444 Miles</span></p>
+              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 500+ Miles</span></p>
           </div>
           <div class="col-sm-4">
               <h4>Trip Length</h4>
@@ -39,9 +39,9 @@
     <div class="col-sm-4 sidebar">
       <div class="well">
         <h3>Cost</h3>
-        <p><span class="price">$2640</span><br>
-        Double Occupancy (shared accommodations)</p>
-        <p><span class="price">$3440</span><br>
+        <p><span class="price">$2890</span><br>
+        Double Occupancy</p>
+        <p><span class="price">$3690</span><br>
         Single Occupancy</p>
 
         <hr />
@@ -55,7 +55,7 @@
         <h3><span class="glyphicon glyphicon-calendar"></span> 2014 Dates</h3>
         <h4>May 2-10</h4>
         <hr>
-        <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="http://blackbearadventures.com/contact/">Sign Up Now &raquo;</a></p>
+        <p class="sold-out">SOLD OUT</p>
         <p class="hidden-print"><button class="btn btn-large btn-default btn-block" onClick="window.print()"><span class="glyphicon glyphicon-print"></span> Print Complete Tour Itinerary</button></p>
       </div>
     </div>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.natcheztracetravel.com/frenchcamp-bedandbreakfasts/frenchcamp.html" target="_blank"><img src="/media/french-camp-bed-breakfast.jpg" class="img-responsive hidden-print" alt="French Camp Bed &amp; Breakfast" width="100%"><br>
+              <p><a href="http://www.tripadvisor.com/Hotel_Review-g49277-d604885-Reviews-Bluffs_Lodge-Laurel_Springs_North_Carolina.html" target="_blank"><img src="/media/french-camp-bed-breakfast.jpg" class="img-responsive hidden-print" alt="French Camp Bed &amp; Breakfast" width="100%"><br>
               French Camp Bed &amp; Breakfast <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -300,11 +300,10 @@
           <ul>
             <li><a href="http://www.natchez.ms.us/">Natchez, MS</a></li>
             <li><a href="http://www.visitjackson.com/">Jackson, MS</a></li>
-            <li><a href="http://www.frenchcamp.org/NatchezTrace_site/mainpage.html">French Camp</a></li>
             <li><a href="http://www.tupelo.net/">Tupelo, MS</a></li>
             <li><a href="http://www.flo-tour.org/">Florence, AL</a></li>
             <li><a href="http://www.nashvillecvb.com/">Nashville, TN</a></li>
-            <li><a href="http://www.scenictrace.com/">Natchez Trace Parkway</a></li>
+            <li><a href="http://www.nps.gov/natr/index.htm">Natchez Trace Parkway</a></li>
             <li><a href="http://www.scenictrace.com/">Scenic Trace</a></li>
           </ul>
         </div>
