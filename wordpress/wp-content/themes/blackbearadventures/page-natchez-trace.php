@@ -13,7 +13,7 @@
 
       <div class="row">
           <div class="col-sm-4">
-              <h4>Miles Biked</h4>
+              <h4>Tour Mileage</h4>
               <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 444 Miles</span></p>
           </div>
           <div class="col-sm-4">
