@@ -2,6 +2,8 @@
 <div class="container">
   <div class="row">
 
+    <?php get_template_part('templates/page-header') ?>
+
     <div class="col-sm-8">
       <h2>Overview</h2>
       <p class="lead">Black Bear Adventures is the only Tour company confident enough in themselves and their guests to offer full traverses of the Blue Ridge Parkway. I am in love with this road and have been since I was a young man, as native North Carolinian I have spent countless hours on what is quite possibly the finest cycling experience in the world!</p>
