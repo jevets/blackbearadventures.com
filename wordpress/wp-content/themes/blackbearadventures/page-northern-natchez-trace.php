@@ -56,6 +56,7 @@
         <h4>6 Days from Saturday May 17 - Thursday May 22</h4>
         <hr>
 
+        <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="/reserve/">Sign Up Now &raquo;</a></p>
         <p class="hidden-print"><button class="btn btn-large btn-default btn-block" onClick="window.print()"><span class="glyphicon glyphicon-print"></span> Print Complete Tour Itinerary</button></p>
       </div>
     </div>
