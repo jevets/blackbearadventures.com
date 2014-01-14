@@ -249,6 +249,8 @@
             <li>BBA Swag including water bottles, cycling jersey and other goodies...</li>
           </ul>
 
+          <hr>
+          
           <h2>Not Included</h2>
           <ul>
             <li>Airfare to and from the trip pick-up/drop-off locations</li>
