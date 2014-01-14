@@ -55,7 +55,7 @@
         <h3><span class="glyphicon glyphicon-calendar"></span> 2014 Dates</h3>
         <h4>June 13-22</h4>
         <hr>
-        <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="http://blackbearadventures.com/contact/">Sign Up Now &raquo;</a></p>
+        <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="/reserve/">Sign Up Now &raquo;</a></p>
         <p class="hidden-print"><button class="btn btn-large btn-default btn-block" onClick="window.print()"><span class="glyphicon glyphicon-print"></span> Print Complete Tour Itinerary</button></p>
       </div>
     </div>
