@@ -105,8 +105,8 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.marriott.com/hotels/travel/mslmc-marriott-shoals-hotel-and-spa/" target="_blank"><img src="/media/asdfasdf.jpg" class="img-responsive hidden-print" alt="Marriott Shoals Hotel &amp; Spa!" width="100%"><br>
-              Marriott Shoals Hotel &amp; Spa! <span class="glyphicon glyphicon-new-window"></span></a></p>
+              <p><a href="http://www.marriott.com/hotels/travel/mslmc-marriott-shoals-hotel-and-spa/" target="_blank"><img src="/media/marriott-shoals-hotel-spa.jpg" class="img-responsive hidden-print" alt="Marriott Shoals Hotel &amp; Spa" width="100%"><br>
+              Marriott Shoals Hotel &amp; Spa <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
 
@@ -128,8 +128,8 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.marriott.com/hotels/travel/mslmc-marriott-shoals-hotel-and-spa/" target="_blank"><img src="/media/asdfasdf.jpg" class="img-responsive hidden-print" alt="Marriott Shoals Hotel &amp; Spa!" width="100%"><br>
-              Marriott Shoals Hotel &amp; Spa! <span class="glyphicon glyphicon-new-window"></span></a></p>
+              <p><a href="http://www.marriott.com/hotels/travel/mslmc-marriott-shoals-hotel-and-spa/" target="_blank"><img src="/media/marriott-shoals-hotel-spa.jpg" class="img-responsive hidden-print" alt="Marriott Shoals Hotel &amp; Spa" width="100%"><br>
+              Marriott Shoals Hotel &amp; Spa <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
 
@@ -151,7 +151,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.ihg.com/holidayinnexpress/hotels/us/en/columbia/clbcp/hoteldetail?qCiD=08&qCiMy=042014&qCoD=09&qCoMy=042014&qDest=Columbia%2C+Tn%2C+United+States&qHtlC=bnaus&qAdlt=1&qChld=0&qRms=1&qIta=99626424&qPSt=0&qRtP=6CBARC&qSmP=3&qRmP=3.O.T.X.C&qWch=0&qSHp=1&qBrs=hi.ex.rs.cv.ic.cp.in.vn.sb.cw.6c&qSrt=BRAND_SORT&qRad=30&qRdU=1&qRpp=10&qRRSrt=rt&qLat=35.615&qLng=-87.0353&srb_u=1" target="_blank"><img src="/media/asdfasdf.jpg" class="img-responsive hidden-print" alt="Holiday Inn Express" width="100%"><br>
+              <p><a href="http://www.ihg.com/holidayinnexpress/hotels/us/en/columbia/clbcp/hoteldetail?qCiD=08&qCiMy=042014&qCoD=09&qCoMy=042014&qDest=Columbia%2C+Tn%2C+United+States&qHtlC=bnaus&qAdlt=1&qChld=0&qRms=1&qIta=99626424&qPSt=0&qRtP=6CBARC&qSmP=3&qRmP=3.O.T.X.C&qWch=0&qSHp=1&qBrs=hi.ex.rs.cv.ic.cp.in.vn.sb.cw.6c&qSrt=BRAND_SORT&qRad=30&qRdU=1&qRpp=10&qRRSrt=rt&qLat=35.615&qLng=-87.0353&srb_u=1" target="_blank"><img src="/media/holiday-inn-express-columbia.jpg" class="img-responsive hidden-print" alt="Holiday Inn Express" width="100%"><br>
               Holiday Inn Express <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -174,7 +174,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.ihg.com/holidayinnexpress/hotels/us/en/brentwood/bnana/hoteldetail?qCiD=08&qCiMy=042014&qCoD=09&qCoMy=042014&qDest=Franklin,+Tn,+United+States&qHtlC=bnaus&qAdlt=1&qChld=0&qRms=1&qIta=99626424&qPSt=0&qRtP=6CBARC&qSmP=3&qRmP=3.O.T.X.C&qWch=0&qSHp=1&qBrs=hi.ex.rs.cv.ic.cp.in.vn.sb.cw.6c&qSrt=BRAND_SORT&qRad=30&qRdU=1&qRpp=10&qRRSrt=rt&qLat=35.925&qLng=-86.8689&srb_u=1" target="_blank"><img src="/media/hilton-garden-inn.jpg" class="img-responsive hidden-print" alt="Hilton Garden Inn" width="100%"><br>
+              <p><a href="http://www.ihg.com/holidayinnexpress/hotels/us/en/brentwood/bnana/hoteldetail?qCiD=08&qCiMy=042014&qCoD=09&qCoMy=042014&qDest=Franklin,+Tn,+United+States&qHtlC=bnaus&qAdlt=1&qChld=0&qRms=1&qIta=99626424&qPSt=0&qRtP=6CBARC&qSmP=3&qRmP=3.O.T.X.C&qWch=0&qSHp=1&qBrs=hi.ex.rs.cv.ic.cp.in.vn.sb.cw.6c&qSrt=BRAND_SORT&qRad=30&qRdU=1&qRpp=10&qRRSrt=rt&qLat=35.925&qLng=-86.8689&srb_u=1" target="_blank"><img src="/media/holiday-inn-express-brentwood.jpg" class="img-responsive hidden-print" alt="Hilton Garden Inn" width="100%"><br>
               Holiday Inn Express <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -197,7 +197,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="#" target="_blank"><img src="/media/asdfasdf.jpg" class="img-responsive hidden-print" alt="Marriott Courtyard" width="100%"><br>
+              <p><a href="#" target="_blank"><img src="/media/marriott-courtyard.jpg" class="img-responsive hidden-print" alt="Marriott Courtyard" width="100%"><br>
               Marriott Courtyard <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
