@@ -64,7 +64,7 @@
           <p><a class="btn btn-primary" href="/blue-ridge-parkway/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
         </div>
         <div class="col-sm-5">
-          <a href="/blue-ridge-parkway/"><img class="featurette-image img-responsive img-shadow" src="/media/blue-ridge-parkway.jpg" alt="Generic placeholder image"></a>
+          <a href="/blue-ridge-parkway/"><img class="featurette-image img-responsive img-shadow" src="/media/blue-ridge-parkway.jpg" alt="Blue Ridge Parkway"></a>
         </div>
       </div>
 
@@ -72,7 +72,7 @@
 
       <div class="row featurette">
         <div class="col-sm-5">
-          <a href="/natchez-trace/"><img class="featurette-image img-responsive img-shadow" src="/media/h2.jpg" alt="Generic placeholder image"></a>
+          <a href="/natchez-trace/"><img class="featurette-image img-responsive img-shadow" src="/media/h2.jpg" alt="Natchez Trace Parkway"></a>
         </div>
         <div class="col-sm-7">
           <h2 class="featurette-heading"><a href="/natchez-trace/">Natchez Trace Parkway <span class="text-muted"> Bicycle Tour</span></a></h2>
@@ -85,12 +85,25 @@
 
       <div class="row featurette">
         <div class="col-sm-7">
-          <h2 class="featurette-heading">The Blue Ridge Parkway EPIC <span class="text-muted"> Bicycle Tour</span></h2>
+          <h2 class="featurette-heading"><a href="/blue-ridge-parkway-epic/">The Blue Ridge Parkway EPIC+ <span class="text-muted"> Bicycle Tour</span></a></h2>
           <p class="lead">This is our most challenging annually scheduled cycling "vacation" and will test even the fittest cyclists. We will average over 95 miles and 10,000 feet of climbing a day. This tour is for those cyclists that want to test themselves on what could possibly be the toughest tour in America.</p>
           <p><a class="btn btn-primary" href="/blue-ridge-parkway-epic/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
         </div>
         <div class="col-sm-5">
-          <a href="/blue-ridge-parkway-epic/"><img class="featurette-image img-responsive img-shadow" src="/media/h3.jpg" alt="Generic placeholder image"></a>
+          <a href="/blue-ridge-parkway-epic/"><img class="featurette-image img-responsive img-shadow" src="/media/h3.jpg" alt="The Blue Ridge Parkway EPIC+"></a>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-sm-5">
+          <a href="/northern-natchez-trace/"><img class="featurette-image img-responsive img-shadow" src="/media/h4.jpg" alt="Northern Natchez Trace Parkway"></a>
+        </div>
+        <div class="col-sm-7">
+          <h2 class="featurette-heading"><a href="/northern-natchez-trace/">Northern Natchez Trace Parkway <span class="text-muted"> Bicycle Tour</span></a></h2>
+          <p class="lead">The combination of inn's, extra curricular activities and cycling make this one the very best tours we have to offer.</p>
+          <p><a class="btn btn-primary" href="/northern-natchez-trace/" role="button">Trip Details, Itinerary &amp; Pricing &raquo;</a></p>
         </div>
       </div>
 

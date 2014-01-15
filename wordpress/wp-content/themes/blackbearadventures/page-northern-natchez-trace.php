@@ -218,9 +218,6 @@
               <span class="label label-default">0 miles</span>
             </div>
             <div class="col-sm-2">
-              <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="http://www.marriott.com/hotels/travel/mslmc-marriott-shoals-hotel-and-spa/" target="_blank"><img src="/media/marriott-shoals-hotel-spa.jpg" class="img-responsive hidden-print" alt="Marriott Shoals Hotel &amp; Spa" width="100%"><br>
-              Marriott Shoals Hotel &amp; Spa <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
 
@@ -251,7 +248,7 @@
           </ul>
 
           <hr>
-          
+
           <h2>Not Included</h2>
           <ul>
             <li>Airfare to and from the trip pick-up/drop-off locations</li>
