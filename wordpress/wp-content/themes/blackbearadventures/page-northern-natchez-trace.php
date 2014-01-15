@@ -13,7 +13,7 @@
       <div class="row">
           <div class="col-sm-4">
               <h4>Tour Mileage</h4>
-              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 500+ Miles</span></p>
+              <p class="lead"><span class="label label-primary label-pad"><span class="glyphicon glyphicon-road"></span> 250+ Miles</span></p>
           </div>
           <div class="col-sm-4">
               <h4>Trip Length</h4>
@@ -39,9 +39,9 @@
     <div class="col-sm-4 sidebar">
       <div class="well">
         <h3>Cost</h3>
-        <p><span class="price">$1595</span><br>
+        <p><span class="price">$2135</span><br>
         Double Occupancy</p>
-        <p><span class="price">$2140</span><br>
+        <p><span class="price">$2680</span><br>
         Single Occupancy</p>
 
         <hr />
@@ -264,8 +264,6 @@
           <h2>Points of Interest</h2>
           <p>Below are a few links that will help you research the area associated with the Natchez Trace Parkway bicycle tour.</p>
           <ul>
-            <li><a href="http://www.natchez.ms.us/">Natchez, MS</a></li>
-            <li><a href="http://www.visitjackson.com/">Jackson, MS</a></li>
             <li><a href="http://www.tupelo.net/">Tupelo, MS</a></li>
             <li><a href="http://www.flo-tour.org/">Florence, AL</a></li>
             <li><a href="http://www.nashvillecvb.com/">Nashville, TN</a></li>
