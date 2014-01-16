@@ -71,6 +71,7 @@
         <ul class="nav nav-tabs">
             <li class="active"><a href="#photos" data-toggle="tab">Tour Gallery</a></li>
             <li><a href="#intinerary" data-toggle="tab">Itinerary</a></li>
+            <li><a href="#included" data-toggle="tab">What's Included</a></li>
             <li><a href="#interest" data-toggle="tab">Points of Interest</a></li>
         </ul>
     </div>
@@ -292,6 +293,36 @@
             </div>
           </div>
 
+        </div>
+
+        <div class="tab-pane" id="included">
+          <h2>Included in the Trip Price</h2>
+          <h3>Lodging</h3>
+          <p>8 nights lodging beginning on Friday May the 2nd and concluding on Friday May the 9th</p>
+          <h3>Food & Snacks</h3>
+          <ul>
+            <li>All meals beginning with dinner on Friday the 2nd and concluding with breakfast on Saturday the 10th except for lunch and dinner on our second day in Florence, AL</li>
+            <li>All snacks and beverages during each day’s ride</li>
+          </ul>
+          <h3>Support</h3>
+          <ul>
+            <li>The knowledge, support and camaraderie of experienced guides</li>
+            <li>Mechanical support as needed during your trip</li>
+            <li>Daily route support plus detailed route maps w/ profile data</li>
+            <li>Ride support vehicle accompanies Tour</li>
+            <li>Shuttle service from the Jackson, MS airport to Natchez on May the 1st and to the Nashville airport after conclusion of Tour on Saturday May the 10th</li>
+            <li>All necessary transportation and luggage transfers during your trip</li>
+          </ul>
+          <h3>Extras</h3>
+          <p>BBA Swag including water bottles, cycling jersey and other goodies…</p>
+          <h2>Not Included</h2>
+          <ul>
+            <li>Airfare to and from the trip pick-up/drop-off locations</li>
+            <li>Alcohol</li>
+            <li>BBA rental bike - in 2014 we will be offering the beautifully crafted <a href="http://aluboobikes.com/shop/r-series/">Aluboo Bikes</a> for $45/day</li>
+            <li>Personal items purchased during the trip</li>
+            <li>Gratuities for your Black Bear Adventures Guides</li>
+          </ul>
         </div>
 
         <div class="tab-pane" id="interest">

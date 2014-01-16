@@ -53,7 +53,7 @@
         <hr />
 
         <h3><span class="glyphicon glyphicon-calendar"></span> 2014 Dates</h3>
-        <h4>6 Days from Saturday May 17 - Thursday May 22</h4>
+        <h4>6 Days from Saturday May 19 - 24</h4>
         <hr>
 
         <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="/reserve/">Sign Up Now &raquo;</a></p>
@@ -92,7 +92,7 @@
 
           <div class="row">
             <div class="col-sm-6">
-              <h3><span class="label label-primary">Day 1</span> Saturday May 17: Florence, AL</h3>
+              <h3><span class="label label-primary">Day 1</span> Florence, AL</h3>
               <p>We shuttle from Nashville to Florence in the afternoon. After settling in to our rooms we will gather to review the upcoming itinerary before heading into town for dinner.</p>
             </div>
             <div class="col-sm-2">
@@ -114,7 +114,7 @@
 
           <div class="row">
             <div class="col-sm-6">
-              <h3><span class="label label-primary">Day 2</span> Sunday May 18: Florence, AL loop</h3>
+              <h3><span class="label label-primary">Day 2</span> Florence, AL loop</h3>
               <p>There are numerous options today to experience the beautiful backroads of north western Alabama.</p>
             </div>
             <div class="col-sm-2">
@@ -137,7 +137,7 @@
 
           <div class="row">
             <div class="col-sm-6">
-              <h3><span class="label label-primary">Day 3</span> Monday May 19: Florence, AL to Columbia, TN</h3>
+              <h3><span class="label label-primary">Day 3</span> Florence, AL to Columbia, TN</h3>
               <p>Our first day on the Natchez Trace! We shuttle out from the hotel before entering the Trace where we will quickly cross the state line into Tennessee. Today’s rolling terrain will provide a wonderful initial experience along this incredible <a href="http://www.tdot.state.tn.us/Byways/scenic-byway-natchez-trace-parkway.aspx">national scenic byway</a>.</p>
             </div>
             <div class="col-sm-2">
@@ -160,7 +160,7 @@
 
           <div class="row">
             <div class="col-sm-6">
-              <h3><span class="label label-primary">Day 4</span> Tuesday May 20: Columbia, TN to Leipers Fork, TN</h3>
+              <h3><span class="label label-primary">Day 4</span> Columbia, TN to Leipers Fork, TN</h3>
               <p>Another glorious day along the Natchez Trace! We once again shuttle back out to the Trace to begin our cycling, todays route continues to wind along the Cumberland Plateau, the southern most stretches of the Appalachians and ends in the historic community of Leipers Fork.</p>
             </div>
             <div class="col-sm-2">
@@ -183,7 +183,7 @@
 
           <div class="row">
             <div class="col-sm-6">
-              <h3><span class="label label-primary">Day 5</span> Wednesday May 21: Leipers Fork, TN to Nashville</h3>
+              <h3><span class="label label-primary">Day 5</span> Leipers Fork, TN to Nashville</h3>
               <p>We shuttle back to the Trace and set out along the backroads including stints along the Old “Natchez Trace” before turing north towards Nashville where we celebrate a wonderful and successful trip with Black Bear Adventures.</p>
             </div>
             <div class="col-sm-2">
@@ -197,7 +197,7 @@
             </div>
             <div class="col-sm-2">
               <h4><span class="glyphicon glyphicon-home"></span> Stay</h4>
-              <p><a href="#" target="_blank"><img src="/media/marriott-courtyard.jpg" class="img-responsive hidden-print" alt="Marriott Courtyard" width="100%"><br>
+              <p><a href="http://www.marriott.com/hotels/travel/bnadt-courtyard-nashville-downtown" target="_blank"><img src="/media/marriott-courtyard.jpg" class="img-responsive hidden-print" alt="Marriott Courtyard" width="100%"><br>
               Marriott Courtyard <span class="glyphicon glyphicon-new-window"></span></a></p>
             </div>
           </div>
@@ -206,7 +206,7 @@
 
           <div class="row">
             <div class="col-sm-6">
-              <h3><span class="label label-primary">Day 6</span> Thursday May 22: Nashville, TN</h3>
+              <h3><span class="label label-primary">Day 6</span> Nashville, TN</h3>
               <p>After breakfast where we reflect on the joys, laughter and challenge of these previous few days. We will offer shuttles to Nashville International Airport.</p>
             </div>
             <div class="col-sm-2">

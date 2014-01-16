@@ -70,6 +70,7 @@
         <ul class="nav nav-tabs">
           <li class="active"><a href="#photos" data-toggle="tab">Tour Gallery</a></li>
           <li><a href="#intinerary" data-toggle="tab">Itinerary</a></li>
+          <li><a href="#included" data-toggle="tab">What's Included</a></li>
           <li><a href="#interest" data-toggle="tab">Points of Interest</a></li>
         </ul>
     </div>
@@ -237,6 +238,35 @@
             </div>
           </div>
 
+        </div>
+
+        <div class="tab-pane" id="included">
+          <h2>Lodging</h2>
+          <p>7 nights lodging beginning on Saturday and concluding on the following Friday</p>
+          <h3>Food & Snacks</h3>
+          <ul>
+            <li>All meals beginning with lunch on Day 1’s shuttle and concluding with breakfast on our final day in Asheville</li>
+            <li>All snacks and beverages during each day’s ride</li>
+          </ul>
+          <h3>Support</h3>
+          <ul>
+            <li>The knowledge, support and camaraderie of experienced guides</li>
+            <li>Mechanical support as needed during your trip</li>
+            <li>Daily route support plus detailed route maps w/ profile data</li>
+            <li>Ride support vehicle accompanies Tour</li>
+            <li>Shuttle service from Asheville, NC to Front Royal, VA on Day 1</li>
+            <li>All necessary transportation and luggage transfers during your trip</li>
+          </ul>
+          <h3>Extras</h3>
+          <p>BBA Swag including water bottles, cycling jersey and other goodies…</p>
+          <h2>Not Included</h2>
+          <ul>
+            <li>Airfare to and from the trip pick-up/drop-off locations</li>
+            <li>Alcohol</li>
+            <li>BBA rental bike - in 2014 we will be offering the beautifully crafted <a href="http://aluboobikes.com/shop/r-series/">Aluboo Bikes</a> for $45/day</li>
+            <li>Personal items purchased during the trip</li>
+            <li>Gratuities for your Black Bear Adventures Guides</li>
+          </ul>
         </div>
 
         <div class="tab-pane" id="interest">
