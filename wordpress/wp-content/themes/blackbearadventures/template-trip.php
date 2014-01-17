@@ -17,9 +17,7 @@
       <p class="lead"><?php the_field('trip_lead_paragraph') ?></p>
       <?php endif ?>
 
-      <?php if (get_field('trip_overview')): ?>
-      <?php the_field('trip_overview') ?>
-      <?php endif ?>
+      <?php the_content() ?>
 
       <hr />
 

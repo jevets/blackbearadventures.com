@@ -17,16 +17,6 @@ if(function_exists("register_field_group"))
         'formatting' => 'html',
       ),
       array (
-        'key' => 'field_52d95f38077d8',
-        'label' => 'Trip Overview',
-        'name' => 'trip_overview',
-        'type' => 'wysiwyg',
-        'required' => 1,
-        'default_value' => '',
-        'toolbar' => 'basic',
-        'media_upload' => 'no',
-      ),
-      array (
         'key' => 'field_52d971c559b56',
         'label' => 'Included in the Trip Price',
         'name' => 'included',
