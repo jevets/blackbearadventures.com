@@ -36,15 +36,15 @@
         <div class="col-sm-4">
           <img class="img-responsive img-shadow" src="/media/cycling-support-team.jpg" alt="">
           <h2>Best In Industry Support &amp; Rider Experience</h2>
-          <p>We here at Black Bear Adventures are proud of our reputation of providing the industries best support and rider experience. We carefully design each tour and select every road to ensure the finest rider experience available. Our support team will do everything in their power to guarantee that you leave with a full appreciation of their efforts and that your expectations have been exceeded.</p>
+          <p>Our support team will do everything in their power to guarantee that we exceed your expectations.</p>
           <p><a class="btn btn-default" href="/faqs/" role="button">Frequently Asked Questions &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4">
           <img class="img-responsive img-shadow" src="/media/m3.jpg" alt="">
           <h2>What We Do and Where We Go</h2>
           <p>We at Black Bear Adventures consider ourselves experts in the best cycling here in the south; from the <a href="/natchez-trace/">historic Natchez Trace</a> to the <a href="/blue-ridge-parkway/">Blue Ridge Parkway</a>, from the bayou to the bourbon trail and every desirable road in between.</p>
-          <p>But while we are a bicycle vacation with an emphasis on the special cycling here in the south I have been lucky enough to have designed and led trips in 35 states thanks to both the <a href="/private-tours/">Private Tour</a> and <a href="/event-management/">Event Management</a> arms of our company. So don’t hesitate to come to us with an idea or desire to cycle somewhere outside of our core area of operation.</p>
-          <p><a class="btn btn-default" href="/contact/" role="button">Ready to ride? &raquo;</a></p>
+          <p>But while we are a bicycle vacation company with an emphasis on the special cycling here in the south I have been lucky enough to have designed and led trips in 35 states thanks to both the <a href="/private-tours/">Private Tour</a> and <a href="/event-management/">Event Management</a> arms of our company. So don’t hesitate to come to us with an idea or desire to cycle somewhere outside of our core area of operation.</p>
+          <p><a class="btn btn-default" href="/reserve/" role="button">Ready to ride? &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
