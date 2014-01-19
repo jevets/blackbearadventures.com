@@ -13,7 +13,7 @@ function bba_favicon() {
 
 
 // Hide acf interface from wp-admin
-// define( 'ACF_LITE', true );
+define( 'ACF_LITE', true );
 
 // Include acf plugin core
 include_once(dirname(__FILE__).'/advanced-custom-fields/acf.php');
