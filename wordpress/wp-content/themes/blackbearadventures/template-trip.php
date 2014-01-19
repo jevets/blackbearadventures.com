@@ -71,10 +71,19 @@
         <?php endif ?>
 
         <?php if ($years = get_field('trip_dates')): ?>
+        <pre><?php print_r($years) ?></pre>
           <?php foreach ($years as $year): ?>
             <h3><span class="glyphicon glyphicon-calendar"></span> <?php echo $year['year'] ?> Dates</h3>
-            <?php foreach ($year['trip_sessions'] as $session): ?>
-              <h4><?php echo $session['session_date_range'] ?></h4>
+            <?php foreach ($year['sessions'] as $session): ?>
+              <h4>
+                <?php echo $session['date_range'] ?>
+                <?php if ($session['availability'] == 'available'): ?>
+                  &ndash; <span class="text-success">Available</span>
+                <?php endif ?>
+                <?php if ($session['availability'] == 'sold_out'): ?>
+                  &ndash; <span class="text-danger">Sold Out</span>
+                <?php endif ?>
+              </h4>
             <?php endforeach ?>
             <hr>
           <?php endforeach ?>
