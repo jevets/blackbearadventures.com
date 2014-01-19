@@ -71,7 +71,6 @@
         <?php endif ?>
 
         <?php if ($years = get_field('trip_dates')): ?>
-        <pre><?php print_r($years) ?></pre>
           <?php foreach ($years as $year): ?>
             <h3><span class="glyphicon glyphicon-calendar"></span> <?php echo $year['year'] ?> Dates</h3>
             <?php foreach ($year['sessions'] as $session): ?>
