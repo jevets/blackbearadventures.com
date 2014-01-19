@@ -3,6 +3,15 @@
  * Custom functions
  */
 
+// Favicon
+add_action('wp_head', 'bba_favicon', 10);
+function bba_favicon() {
+?>
+<link rel="icon" href="/favicon.ico"><link rel="shortcut icon" href="/favicon.ico">
+<?php
+}
+
+
 // Hide acf interface from wp-admin
 // define( 'ACF_LITE', true );
 
