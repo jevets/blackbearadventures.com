@@ -70,11 +70,19 @@
         <hr />
         <?php endif ?>
 
-        <h3><span class="glyphicon glyphicon-calendar"></span> 2014 Dates</h3>
-        <h4>June 13-22</h4>
-        <hr>
-        <p class=""><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="/reserve/">Sign Up Now &raquo;</a></p>
-        <p class="hidden-print"><button class="btn btn-large btn-default btn-block" onClick="window.print()"><span class="glyphicon glyphicon-print"></span> Print Complete Tour Itinerary</button></p>
+        <?php if ($years = get_field('trip_dates')): ?>
+          <?php foreach ($years as $year): ?>
+            <h3><span class="glyphicon glyphicon-calendar"></span> <?php echo $year['year'] ?> Dates</h3>
+            <?php foreach ($year['trip_sessions'] as $session): ?>
+              <h4><?php echo $session['session_date_range'] ?></h4>
+            <?php endforeach ?>
+            <hr>
+          <?php endforeach ?>
+
+          <p><a class="btn btn-success btn-xl btn-block btn-lg" role="button" href="/reserve/">Sign Up Now &raquo;</a></p>
+          <p class="hidden-print"><button class="btn btn-large btn-default btn-block" onClick="window.print()"><span class="glyphicon glyphicon-print"></span> Print Complete Tour Itinerary</button></p>
+        <?php endif ?>
+
       </div>
     </div>
 

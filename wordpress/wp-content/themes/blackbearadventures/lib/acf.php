@@ -435,3 +435,85 @@ if(function_exists("register_field_group"))
     'menu_order' => 500,
   ));
 }
+
+
+// Trip Dates
+if(function_exists("register_field_group"))
+{
+  register_field_group(array (
+    'id' => 'acf_trip-dates',
+    'title' => 'Trip Dates',
+    'fields' => array (
+      array (
+        'key' => 'field_52dbecd13c04d',
+        'label' => 'Trip Dates',
+        'name' => 'trip_dates',
+        'type' => 'repeater',
+        'sub_fields' => array (
+          array (
+            'key' => 'field_52dbece03c04e',
+            'label' => 'Year',
+            'name' => 'year',
+            'type' => 'text',
+            'column_width' => '',
+            'default_value' => '',
+            'placeholder' => '',
+            'prepend' => '',
+            'append' => '',
+            'formatting' => 'html',
+            'maxlength' => '',
+          ),
+          array (
+            'key' => 'field_52dbed233c04f',
+            'label' => 'Trip Session(s)',
+            'name' => 'trip_sessions',
+            'type' => 'repeater',
+            'column_width' => '',
+            'sub_fields' => array (
+              array (
+                'key' => 'field_52dbed453c050',
+                'label' => 'Session Date Range',
+                'name' => 'session_date_range',
+                'type' => 'text',
+                'instructions' => 'i.e. June 22-28',
+                'column_width' => '',
+                'default_value' => '',
+                'placeholder' => '',
+                'prepend' => '',
+                'append' => '',
+                'formatting' => 'html',
+                'maxlength' => '',
+              ),
+            ),
+            'row_min' => '',
+            'row_limit' => '',
+            'layout' => 'table',
+            'button_label' => 'Add Row',
+          ),
+        ),
+        'row_min' => '',
+        'row_limit' => '',
+        'layout' => 'table',
+        'button_label' => 'Add Row',
+      ),
+    ),
+    'location' => array (
+      array (
+        array (
+          'param' => 'page_template',
+          'operator' => '==',
+          'value' => 'template-trip.php',
+          'order_no' => 0,
+          'group_no' => 0,
+        ),
+      ),
+    ),
+    'options' => array (
+      'position' => 'normal',
+      'layout' => 'no_box',
+      'hide_on_screen' => array (
+      ),
+    ),
+    'menu_order' => 0,
+  ));
+}
